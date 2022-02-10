@@ -8,5 +8,5 @@ My name is Caitlin Tefft.  I am in my final semester in the iSchool in the [Data
 3. Research computing
 4. CAQDAS
 
-##Tools I Am Excited to Use in Class
+## Tools I Am Excited to Use in Class
 I am most excited to continue using Python to manage and analyze data.  I have been working with Python for just over 6 months and am finally starting to feel comfortable in the language but have a lot to learn and am excited to get more practice as I believe it will be professionally very useful to have a strong foundation in the language.
